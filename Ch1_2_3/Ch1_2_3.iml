@@ -11,19 +11,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="file://$USER_HOME$/Downloads/neuroph-2.98/Framework/libs" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$USER_HOME$/Downloads/neuroph-2.98/Framework/libs" />
-        </SOURCES>
-        <jarDirectory url="file://$USER_HOME$/Downloads/neuroph-2.98/Framework/libs" recursive="false" />
-        <jarDirectory url="file://$USER_HOME$/Downloads/neuroph-2.98/Framework/libs" recursive="false" type="SOURCES" />
-      </library>
-    </orderEntry>
     <orderEntry type="library" name="Maven: org.beykery:neuroph:2.92" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.5" level="project" />
     <orderEntry type="library" name="Maven: org.apache.commons:commons-lang3:3.3.2" level="project" />

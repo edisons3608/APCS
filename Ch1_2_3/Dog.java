@@ -21,4 +21,10 @@ public class Dog {
     public void setAge(int newAge){
         age = newAge;
     }
+    public Dog(String n){
+        name = n;
+    }
+    public void getOlder(int someYears){
+        age += someYears;
+    }
 }
