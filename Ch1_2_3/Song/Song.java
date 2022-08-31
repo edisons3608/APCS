@@ -4,6 +4,7 @@ public class Song {
     private double cost;
     private boolean isInLibrary;
     public Song(){
+
         title = "WAP";
         duration = 0;
         cost = 1.0;
