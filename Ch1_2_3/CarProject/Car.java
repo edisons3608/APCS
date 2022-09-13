@@ -4,12 +4,13 @@
  *
  * @author (your name)
  * @version (a version number or a date)
+ * v1
  */
 public class Car
 {
     // instance variables - replace the example below with your own
-    double gas;
-    double efficiency;
+    private double gas;
+    private double efficiency;
     public Car(){
         gas = 20;
         efficiency = 25;
