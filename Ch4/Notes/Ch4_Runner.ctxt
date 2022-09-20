@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Ch4_Runner
+comment0.text=\n\ Write\ a\ description\ of\ class\ Ch4_Runner\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ processName()
+comment2.params=
+comment2.target=void\ processRectangle()
+comment3.params=strNum
+comment3.target=boolean\ isNumeric(java.lang.String)
+comment4.params=
+comment4.target=void\ processPhoneNumber()
+comment5.params=
+comment5.target=void\ processInitials()
+comment6.params=bitches\ index
+comment6.target=java.lang.String\ removeLetter(java.lang.String,\ int)
+numComments=7

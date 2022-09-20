@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=QuadraticTester
+comment1.params=
+comment1.target=void\ testConstructors()
+comment2.params=
+comment2.target=void\ testMutators()
+comment3.params=
+comment3.target=void\ testRoots()
+comment4.params=
+comment4.target=void\ testSolutions()
+comment5.params=
+comment5.target=void\ testEvaluate()
+numComments=6
