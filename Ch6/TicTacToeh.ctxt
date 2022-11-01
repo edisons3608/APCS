@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TicTacToeh
+comment1.params=board
+comment1.target=int\ makeBestOption(java.lang.String[])
+comment2.params=board\ turn\ depth
+comment2.target=int\ algo(java.lang.String[],\ boolean,\ int)
+comment3.params=board
+comment3.target=java.lang.String\ over(java.lang.String[])
+comment4.params=board
+comment4.target=void\ revealing(java.lang.String[])
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

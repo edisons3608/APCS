@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Primes
+comment0.text=\n\ Write\ a\ description\ of\ class\ Primes\ here.\n\n\ @author\ Edison\ Sun\n\ @version\ 10/25/22\n
+comment1.params=value
+comment1.target=boolean\ isPrime(int)
+comment2.params=max
+comment2.target=int\ countPrimes(int)
+comment3.params=n
+comment3.target=int\ sumPrimes(int)
+comment4.params=n
+comment4.target=double\ averagePrimes(int)
+comment5.params=n
+comment5.target=java.lang.String\ primeString(int)
+comment6.params=n
+comment6.target=void\ printPrimes(int)
+comment7.params=n
+comment7.target=int\ maxDifference(int)
+comment8.params=n
+comment8.target=java.lang.String\ factor(int)
+comment9.params=n
+comment9.target=int\ countTwinPrimes(int)
+numComments=10
