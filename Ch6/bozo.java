@@ -39,4 +39,17 @@ public class bozo
         }
         
     }
+    public static void vPrinting2(int height){
+        for(int row = 0;row<height;row++){
+            
+            for(int col = 0;col<height;col++){
+                if(col == row || col == height-1-row){
+                    System.out.print("V");
+                }else{
+                    System.out.print(" ");
+                }
+            }
+            System.out.println();
+        }
+    }
 }
