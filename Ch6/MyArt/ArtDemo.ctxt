@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ArtDemo()
+comment1.params=filename
+comment1.target=ArtDemo(java.lang.String)
+comment2.params=
+comment2.target=void\ show()
+comment2.text=\r\n\ Show\ the\ Art\ object\r\n
+numComments=3
