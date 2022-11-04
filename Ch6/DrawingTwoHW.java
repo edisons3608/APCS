@@ -21,12 +21,20 @@ public class DrawingTwoHW
         }
     }
     public static void drawTriangle(int height){
-        for(int row = 0;row<height;row++){
+        for(int row = 0;row<2*height-1;row++){
             for(int col = 0;col<height;col++){
-                if(col >= n-1-row){
-                    System.out.print("*");
+                if(row <= height-1){
+                    if(col <= row){
+                        System.out.print("*");
+                    }else{
+                        System.out.print(" ");
+                    }
                 }else{
-                    System.out.print(" ");
+                    if(col <= height-1-(row-(height-1))){
+                        System.out.print("*");
+                    }else{
+                        System.out.print(" ");
+                    }
                 }
             }
             System.out.println();
