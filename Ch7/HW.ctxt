@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=HW
+comment0.text=\n\ Write\ a\ description\ of\ class\ HW\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ main2()
+comment3.params=ar
+comment3.target=int\ longestRun(int[])
+comment4.params=arr
+comment4.target=int\ countClumps(int[])
+numComments=5

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Indexer
+comment0.text=\n\ Write\ a\ description\ of\ class\ Indexer\ here.\n-\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=text
+comment2.target=java.util.Map\ populate(java.lang.String)
+numComments=3
