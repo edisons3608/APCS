@@ -96,6 +96,26 @@ public class HW
         return numClumps;
     }
     
-    
+    public static int[] evenOdd(int[] arr){
+	int numEven = 0;
+	for(int x = 0;x<arr.length-numEven;x++){
+
+		if(arr[x] % 2 == 1){
+			int temp = arr[x];
+			for(int y = x+1;y<arr.length-numEven;y++){
+				arr[y-1] = arr[y];
+			}
+			arr[arr.length-1] = temp;
+			numEven++;
+		}
+
+
+
+	}
+	return arr;
+
+
+
+    }
     
 }

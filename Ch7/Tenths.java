@@ -5,7 +5,7 @@ import java.util.ArrayList;
  * Write a description of class Tenths here.
  *
  * @author (your name)
- * @version (a version number or a date)
+ * @v1
  */
 public class Tenths
 {
@@ -158,6 +158,8 @@ public class Tenths
         a[j] = temp;
     }
     public void sort(){
+        
+        //Standard Bubble Sort
         /*
         double temp;
         for(int x = 0;x<nums.length;x++){
@@ -170,6 +172,8 @@ public class Tenths
             }
         }
         */
+        //Bogo Sort - this is a joke.
+        
         boolean sorted = false;
         boolean flag = true;
         while(!sorted){
@@ -186,6 +190,7 @@ public class Tenths
             
             
         }
+        
     }
     
 }
