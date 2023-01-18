@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=QuizScores
+comment1.params=
+comment1.target=QuizScores()
+comment2.params=copy
+comment2.target=QuizScores(java.util.ArrayList)
+comment3.params=newScore
+comment3.target=void\ addScore(int)
+comment4.params=
+comment4.target=int\ numScores()
+comment5.params=index
+comment5.target=int\ getScore(int)
+comment6.params=
+comment6.target=void\ addOnePoint()
+comment7.params=limit
+comment7.target=void\ dropScores(int)
+numComments=8
