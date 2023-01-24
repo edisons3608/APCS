@@ -1,11 +1,11 @@
 #BlueJ class context
 comment0.target=ArtDemo
-comment0.text=\n\ RandomArt\ Demo\ -\ has\ examples\ of\ things\ your\ might\ use\ for\ your\ MyArt\ class\n\ \n
+comment0.text=\r\n\ RandomArt\ Demo\ -\ has\ examples\ of\ things\ your\ might\ use\ for\ your\ MyArt\ class\r\n\ \r\n
 comment1.params=
 comment1.target=ArtDemo()
 comment2.params=filename
 comment2.target=ArtDemo(java.lang.String)
 comment3.params=
 comment3.target=void\ show()
-comment3.text=\n\ Show\ the\ Art\ object\n
+comment3.text=\r\n\ Show\ the\ Art\ object\r\n
 numComments=4
