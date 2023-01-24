@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ExamScores
+comment0.text=\n\ Write\ a\ description\ of\ class\ ExamScores\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n\ v1\n
+comment1.params=newResponses\ newKey
+comment1.target=ExamScores(java.lang.String[][],\ java.lang.String[])
+comment2.params=k
+comment2.target=int\ numberCorrect(int)
+comment3.params=
+comment3.target=int[]\ correctSummary()
+comment4.params=
+comment4.target=double\ classAverage()
+comment5.params=
+comment5.target=void\ printSummary()
+numComments=6
