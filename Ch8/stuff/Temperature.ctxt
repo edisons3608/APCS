@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Temperature
+comment0.text=\n\ Write\ a\ description\ of\ class\ Temperature\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n\ v1\n
+comment1.params=temp\ unit
+comment1.target=Temperature(double,\ char)
+comment2.params=newMode
+comment2.target=void\ setMode(char)
+comment3.params=
+comment3.target=double\ getTemp()
+comment4.params=
+comment4.target=char\ getUnit()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

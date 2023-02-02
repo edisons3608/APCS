@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ShowDog
+comment1.params=
+comment1.target=ShowDog()
+comment2.params=name\ age\ breed
+comment2.target=ShowDog(java.lang.String,\ int,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getBreed()
+comment4.params=
+comment4.target=java.util.ArrayList\ awardList()
+comment5.params=someAward
+comment5.target=void\ wonAward(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=obj
+comment7.target=boolean\ equals(java.lang.Object)
+numComments=8

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Employee
+comment0.text=\n\ Write\ a\ description\ of\ class\ Employee\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=name\ age\ emp\ sal
+comment1.target=Employee(java.lang.String,\ int,\ boolean,\ double)
+comment2.params=
+comment2.target=boolean\ getEmployed()
+comment3.params=
+comment3.target=double\ getSalary()
+comment4.params=obj
+comment4.target=boolean\ equals(java.lang.Object)
+numComments=5
