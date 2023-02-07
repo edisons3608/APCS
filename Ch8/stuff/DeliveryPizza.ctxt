@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=DeliveryPizza
+comment0.text=\n\ Write\ a\ description\ of\ class\ DeliveryPizza\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=DeliveryPizza()
+comment2.params=size\ destination
+comment2.target=DeliveryPizza(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getDestination()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=obj
+comment5.target=boolean\ equals(java.lang.Object)
+numComments=6

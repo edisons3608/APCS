@@ -51,7 +51,7 @@ public class Dog
     public void setAge(int newAge)
     {
         age = newAge;
-    }
+    } 
     
     // Any other methods that add functionality to this class
     public void getOlder()

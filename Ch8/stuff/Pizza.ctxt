@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Pizza
+comment1.params=
+comment1.target=Pizza()
+comment2.params=size
+comment2.target=Pizza(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getSize()
+comment4.params=index
+comment4.target=java.lang.String\ getTopping(int)
+comment5.params=topping
+comment5.target=void\ addTopping(java.lang.String)
+comment6.params=
+comment6.target=int\ numberOfToppings()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=other
+comment8.target=boolean\ equals(java.lang.Object)
+numComments=9
