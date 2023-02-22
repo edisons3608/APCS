@@ -53,7 +53,6 @@ public class Pizza
             return false;
         }
         
-        
         if(p2.numberOfToppings() != this.numberOfToppings()){
             return false;
         }

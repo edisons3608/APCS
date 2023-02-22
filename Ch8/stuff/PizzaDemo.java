@@ -24,8 +24,12 @@ public class PizzaDemo
         
         for(int x = 0;x<pizzaList.length;x++){
             if(pizzaList[x] instanceof DeliveryPizza){
+                /*
                 DeliveryPizza dp = (DeliveryPizza)pizzaList[x];
                 System.out.println(dp.getDestination());
+                */
+               
+               System.out.println(((DeliveryPizza)pizzaList[x]).getDestination());
             }
         }
     }

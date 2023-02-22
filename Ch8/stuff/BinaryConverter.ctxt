@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=BinaryConverter
+comment0.text=\n\ Write\ a\ description\ of\ class\ BinaryConverter\ here.\n\n\ @author\ Edison\ Sun\n\ @v1\n
+comment1.params=num
+comment1.target=java.lang.String\ convertToBase2(int)
+comment2.params=num
+comment2.target=int\ convertToBase10(java.lang.String)
+numComments=3

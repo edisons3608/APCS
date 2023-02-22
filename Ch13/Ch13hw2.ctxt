@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Ch13hw2
+comment0.text=\n\ Write\ a\ description\ of\ class\ ch13hw2\ here.\n\n\ @author\ Edison\ Sun\n\ @version\ v1\n
+comment1.params=n
+comment1.target=void\ printNum(int)
+comment10.params=str\ check\ n
+comment10.target=int\ helpIndex(java.lang.String,\ java.lang.String,\ int)
+comment2.params=str
+comment2.target=java.lang.String\ duplicateVowels(java.lang.String)
+comment3.params=str\ n
+comment3.target=java.lang.String\ vowelHelper(java.lang.String,\ int)
+comment4.params=str
+comment4.target=boolean\ isVowel(java.lang.String)
+comment5.params=checkChar\ phrase
+comment5.target=int\ countChars(java.lang.String,\ java.lang.String)
+comment6.params=checkChar\ phrase\ n
+comment6.target=int\ charHelper(java.lang.String,\ java.lang.String,\ int)
+comment7.params=str
+comment7.target=boolean\ palindrome(java.lang.String)
+comment8.params=str\ n
+comment8.target=boolean\ helperPalin(java.lang.String,\ int)
+comment9.params=str\ check
+comment9.target=int\ locateIndex(java.lang.String,\ java.lang.String)
+numComments=11
