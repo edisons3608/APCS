@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=TestVial
+comment0.text=\n\ The\ test\ class\ TestVial.\n\n
+comment1.params=
+comment1.target=TestVial()
+comment1.text=\n\ Default\ constructor\ for\ test\ class\ TestVial\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\n\ Sets\ up\ the\ test\ fixture.\n\n\ Called\ before\ every\ test\ case\ method.\n
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\n\ Tears\ down\ the\ test\ fixture.\n\n\ Called\ after\ every\ test\ case\ method.\n
+comment4.params=
+comment4.target=void\ testVial_1()
+comment5.params=
+comment5.target=void\ testVial_2()
+comment6.params=
+comment6.target=void\ testVial_3()
+comment7.params=
+comment7.target=void\ testVial4_IncludesToString()
+comment8.params=
+comment8.target=void\ testVial_5_usesEqualsMethod()
+comment9.params=
+comment9.target=void\ testVial_6_usesEqualsMethod()
+numComments=10

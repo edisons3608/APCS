@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=SearchingPractice
+comment1.params=arr
+comment1.target=SearchingPractice(java.lang.String[])
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=target
+comment3.target=int\ linearSearch(java.lang.String)
+comment3.text=\n\ Write\ a\ linear\ search\ algorithm\ that\ returns\ the\ index\ of\ the\ LAST\ instance\ \nof\ target\ in\ words.\n\ precondition\:\ none\n\ postcondition\:\ returns\ the\ LAST\ index\ of\ target\ in\ array.\ If\ target\ is\ not\ \nfound,\ returns\ -1.\n
+comment4.params=
+comment4.target=boolean\ isSorted()
+comment4.text=\n\ Write\ a\ method\ to\ determine\ if\ words\ is\ sorted\ lexicographically\ or\ not.\n\ precondition\:\ none\n\ postcondition\:\ returns\ true\ if\ the\ data\ in\ array\ is\ sorted\ in\ ascending\ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ lexicographical\ order\ and\ false\ otherwise.\n\ Refer\ to\ the\ AP\ Quick\ Reference,\ your\ chapter\ 5\ notes\ in\ BlueJ\ or\ pg.\ 186\ in\nyour\ textbook\n\ if\ you\ need\ a\ reminder\ how\ to\ use\ compareTo\ to\ compare\ Strings\n
+comment5.params=target
+comment5.target=int\ binarySearch(java.lang.String)
+comment5.text=\n\ Write\ a\ binary\ search\ algorithm\ that\ returns\ the\ index\ of\ target\ in\ the\ \narray\ words.\nprecondition\:\ words\ is\ a\ sorted\ array\npostcondition\:\ returns\ the\ index\ of\ target\ in\ array.\ If\ there\ are\ multiple\ \ninstances\ of\ target\ in\ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ the\ array,\ return\ any\ index\ of\ target.\ \ If\ target\ is\ not\ \nfound,\ return\ -1.\n
+comment6.params=target\ low\ high
+comment6.target=int\ binarySearchHelper(java.lang.String,\ int,\ int)
+numComments=7

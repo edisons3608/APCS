@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Vial
+comment1.params=
+comment1.target=Vial()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Vials\n
+comment2.params=potionName
+comment2.target=double\ getQuantity(java.lang.String)
+comment2.text=\n\ Get\ the\ quantity\ of\ a\ particular\ potion\ in\ the\ vial\n
+comment3.params=
+comment3.target=double\ getQuantity()
+comment3.text=\n\ Get\ the\ total\ quantity\ (weight\ in\ grams)\ of\ the\ entire\ vial\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ Get\ the\ contents\ of\ the\ vial\ in\ roster\ form,\ each\ potion\ on\ a\ new\ line\ \ \n\ \ \ \ format\ it\ like\:\n\ \ \ \ 98.9\ grams\ of\ phosphor\n\ \ \ \ 1.0\ grams\ of\ sulfur\n\ \ \ \ Notice\ that\ the\ Potion\ class\ has\ a\ toString()\ method.\ Call\ it.\n
+comment5.params=potion
+comment5.target=boolean\ addPotion(Potion)
+comment5.text=\n\ Add\ a\ potion\ to\ the\ vial\n\ \ -\ If\ adding\ the\ potion\ would\ cause\ the\ vial\ to\ contain\ more\ than\ 100\ \ \ \ \ \ \ \n\ \ \ \ grams\ of\ substance,\ add\ none\ of\ it\ and\ return\ false.\ \ \n\ \ \ \ Otherwise,\ add\ the\ substance\ and\ return\ true.\n\ \ \ \ \n\ \ -\ If\ the\ potion\ is\ already\ in\ the\ vial,\ do\ not\ add\ a\ new\ instance\ of\ \n\ \ \ \ the\ potion\ to\ the\ vial.\ \ Instead,\ update\ the\ quantity\ of\ the\n\ \ \ \ existing\ potion.\ No\ potion\ should\ be\ in\ the\ vial\ more\ than\ once.\ \n
+comment6.params=o
+comment6.target=boolean\ equals(java.lang.Object)
+comment6.text=\n\ Two\ vials\ are\ equal\ if\ and\ only\ if\ they\ have\ the\ same\ contents\n\ \ \ \ (override\ the\ inherited\ equals\ method)\n
+numComments=7

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Rack
+comment0.text=\n\ Write\ a\ description\ of\ class\ Rack\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Rack()
+comment2.params=vial
+comment2.target=boolean\ add(Vial)
+comment3.params=vial\ row\ col
+comment3.target=boolean\ add(Vial,\ int,\ int)
+comment4.params=
+comment4.target=int\ count()
+comment5.params=potionName
+comment5.target=double\ getQuantity(java.lang.String)
+comment6.params=
+comment6.target=double\ getQuantity()
+comment7.params=row\ col
+comment7.target=Vial\ remove(int,\ int)
+comment8.params=
+comment8.target=void\ consolidate()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

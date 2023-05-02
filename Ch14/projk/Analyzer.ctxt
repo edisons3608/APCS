@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Analyzer
+comment1.params=
+comment1.target=Analyzer()
+comment2.params=firstIndex\ lastIndex
+comment2.target=void\ printAllInstances(int,\ int)
+comment3.params=i
+comment3.target=Person\ getPerson(int)
+comment4.params=target
+comment4.target=int\ findHeight(double)
+comment5.params=target
+comment5.target=int\ findWeight(double)
+comment6.params=
+comment6.target=void\ sortByHeight()
+comment7.params=
+comment7.target=void\ sortByWeight()
+comment8.params=arr
+comment8.target=java.util.ArrayList\ mergeSort(java.util.ArrayList)
+comment9.params=left\ right
+comment9.target=java.util.ArrayList\ merge(java.util.ArrayList,\ java.util.ArrayList)
+numComments=10

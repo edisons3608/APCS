@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=review
+comment0.text=\n\ Write\ a\ description\ of\ class\ review\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=elements
+comment1.target=double\ findMin(double[])
+comment10.params=vals
+comment10.target=int[]\ foo2(int[])
+comment2.params=elements\ n\ tail
+comment2.target=double\ minHelper(double[],\ int,\ double)
+comment3.params=num
+comment3.target=double\ newton(double)
+comment4.params=num\ n
+comment4.target=double\ newtonHelper(double,\ int)
+comment5.params=vals
+comment5.target=int[]\ foo(int[])
+comment6.params=word
+comment6.target=java.lang.String\ pairStar(java.lang.String)
+comment7.params=str\ n
+comment7.target=java.lang.String\ pairHelper(java.lang.String,\ int)
+comment8.params=n
+comment8.target=java.lang.String\ formatNumber(int)
+comment9.params=nStr\ n
+comment9.target=java.lang.String\ formatNumberHelper(java.lang.String,\ int)
+numComments=11
